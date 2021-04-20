@@ -43,13 +43,18 @@ The initial cost of a roofing system includes materials, labor, overhead, profit
 
 The facility executive that fails to consider the value of a life-cycle costing approach to the purchase of a new roof does the facility and everyone involved with it a financial disservice. First-cost buyers may overlook such important future expense reduction opportunities as:
 
-• Energy cost savings in the heating and air conditioning of the building through the use of white, reflective membranes or coatings and extra insulation.
-• Extended roof service life for an optimally drained roof.
-• Enhanced roof fire retardence and wind uplift resistance, resulting in reduced insurance costs.
-• Extended roof service life resulting from the use of heavier structural framing materials, allowing a heavier roofing system.
-• Future savings when the roof is to be replaced by using reusable roof component accessories.
-• Reduced roofing surface repairs through installation of a heavier membrane of walkway pads for high-traffic roofs.
-• Prevention of roof surface degradation in those roof areas where harmful emissions may occur by installation of appropriate protective devices.
+*   Energy cost savings in the heating and air conditioning of the building through the use of white, reflective membranes or coatings and extra insulation.
+
+*   Extended roof service life for an optimally drained roof.
+
+*   Enhanced roof fire retardence and wind uplift resistance, resulting in reduced insurance costs.
+
+*   Extended roof service life resulting from the use of heavier structural framing materials, allowing a heavier roofing system.
+
+*   Future savings when the roof is to be replaced by using reusable roof component accessories.
+
+*   Reduced roofing surface repairs through installation of a heavier membrane of walkway pads for high-traffic roofs.
+
+*   Prevention of roof surface degradation in those roof areas where harmful emissions may occur by installation of appropriate protective devices.
 
 The most cost-effective roof is one that will stand up to the elements and demands of time. Therefore, facility executives should be actively involved in the initial planning stages to determine the best roofing system based on the established criteria for the building.
-
