@@ -80,9 +80,9 @@ sections:
         avatar: images/review2.jpg
         avatar_alt: Parsley Montana's photo
         content: >-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam. Integer commodo sem at
-          dui sollicitudin, vel posuere justo laoreet.
+          They were very responsive and helpful in addressing all my issues and
+          were able to schedule a next day appointment to fix my roofing
+          problems.
       - author: Jonquil Von Haggerston
         avatar: images/review3.jpg
         avatar_alt: Jonquil Von Haggerston's photo
