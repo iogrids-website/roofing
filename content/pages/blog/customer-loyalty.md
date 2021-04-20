@@ -1,5 +1,5 @@
 ---
-title: Customer Loyalty Programs That Stick
+title: Roofers - You Get What You Pay For When Hiring a Roofing Contractor
 subtitle: A story about customer loyalty
 author: content/data/authors/jane-doe.yaml
 excerpt: >-
