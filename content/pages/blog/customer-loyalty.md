@@ -1,6 +1,6 @@
 ---
 title: Roofers - You Get What You Pay For When Hiring a Roofing Contractor
-subtitle: 'The roof on your home  Article Source: http://EzineArticles.com/9468722'
+subtitle: 'The roof on your home '
 author: content/data/authors/jane-doe.yaml
 excerpt: >-
   A story about customer loyalty curabitur sed consectetur nisi. Integer sit
