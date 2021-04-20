@@ -92,7 +92,7 @@ sections:
   - section_id: call-to-action
     type: section_cta
     title: For Your Roofing Needs!
-    subtitle: Your search ends here
+    subtitle: Schedule your free consultation
     actions:
       - label: Get Started
         url: /signup
