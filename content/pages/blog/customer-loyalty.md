@@ -5,7 +5,8 @@ excerpt: >-
   A story about customer loyalty curabitur sed consectetur nisi. Integer sit
   amet commodo massa.
 date: '2021-01-03'
-thumb_image: images/cool-onion.jpg
+thumb_image: >-
+  images/young-industrial-workers-looking-with-bugged-eyes-while-standing-against-yellow-blank-wall-handsome-professional-roofer-protective-mask-holding-electric-drill-having-kit-instruments-min.jpg
 thumb_image_alt: A group of people working in a cafe
 image: >-
   images/young-industrial-workers-looking-with-bugged-eyes-while-standing-against-yellow-blank-wall-handsome-professional-roofer-protective-mask-holding-electric-drill-having-kit-instruments.jpg
