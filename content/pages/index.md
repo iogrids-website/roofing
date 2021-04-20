@@ -8,7 +8,7 @@ sections:
     title: Residential and Commercial Roofing
     content: "We work with a variety of materials including\_[asphalt shingles](https://www.advantageroofingcompany.com/services)\_Owens Corning, GAF, Malarkey, Certainteed and Versico TPO products\n"
     actions:
-      - label: Learn More
+      - label: Know More
         url: /features
         style: primary
   - section_id: features
