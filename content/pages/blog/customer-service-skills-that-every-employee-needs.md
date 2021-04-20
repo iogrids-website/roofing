@@ -1,6 +1,6 @@
 ---
 title: 'Roofing Boots - '
-subtitle: 'Apparently, there are 5 Service Skills that Every Employee Needs'
+subtitle: Safety At Work
 author: content/data/authors/john-doe.yaml
 excerpt: >-
   Sed nec metus dignissim quam finibus aliquet. Cras luctus, nibh id consequat
