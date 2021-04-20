@@ -6,7 +6,7 @@ excerpt: >-
 author: content/data/authors/jane-doe.yaml
 date: '2018-01-09'
 thumb_image: images/vertical-low-angle-closeup-shot-black-roof-building.jpg
-image: images/6.jpg
+image: images/blue-onion.jpg
 seo:
   title: Behind the Scenes - The Design of Azimuth
   description: Quisque ultrices metus sed libero ultricies condimentum.
