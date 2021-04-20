@@ -7,7 +7,7 @@ excerpt: >-
 author: content/data/authors/jane-doe.yaml
 date: '2018-01-15'
 thumb_image: images/vertical-low-angle-closeup-shot-black-roof-building.jpg
-image: images/4.jpg
+image: images/vertical-low-angle-closeup-shot-black-roof-building.jpg
 seo:
   title: Sales as a Service
   description: A interesting tale about Sales
