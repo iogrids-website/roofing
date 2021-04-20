@@ -17,7 +17,7 @@ sections:
     title: Features
     subtitle: >-
       We are a team of residential and commercial exterior problem solvers. With
-      us, you get a lifetime warranty, 24-hour turnaround on most jobs with
+      us, you get a lifetime warranty, 24-hour turnaround on most jobs with an
       amazing customer service
     features:
       - title: The Best Feature of Your Services
