@@ -1,5 +1,5 @@
 ---
-title: 'Metal Roofing - '
+title: Metal Roofing
 subtitle: Finding a Metal Roofing Contractor
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ut elementum
