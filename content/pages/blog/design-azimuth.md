@@ -1,5 +1,4 @@
 ---
-title: Behind the Scenes - The Design of Azimuth
 excerpt: >-
   Quisque ultrices metus sed libero ultricies condimentum. Suspendisse ut
   faucibus purus. Mauris at pharetra risus.
