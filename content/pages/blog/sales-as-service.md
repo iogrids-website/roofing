@@ -1,6 +1,6 @@
 ---
 title: 'Metal Roofing - '
-subtitle: A interesting tale about Sales
+subtitle: Finding a Metal Roofing Contractor
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ut elementum
   purus.
