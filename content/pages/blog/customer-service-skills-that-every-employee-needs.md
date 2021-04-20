@@ -1,5 +1,5 @@
 ---
-title: 'Roofing Boots - '
+title: Roofing Boots
 subtitle: Safety At Work
 author: content/data/authors/john-doe.yaml
 excerpt: >-
