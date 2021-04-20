@@ -74,7 +74,7 @@ sections:
         avatar: images/review1.jpg
         avatar_alt: Eric Widget's photo
         content: >-
-          We discovered leaks during the last big storm and they was thankfully
+          We discovered leaks during the last big storm and they were thankfully
           able to fit us into their busy schedule.”
       - author: Parsley Montana
         avatar: images/review2.jpg
