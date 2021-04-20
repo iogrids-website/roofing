@@ -7,7 +7,8 @@ excerpt: >-
 date: '2021-01-03'
 thumb_image: images/3_thumb.jpg
 thumb_image_alt: A group of people working in a cafe
-image: images/3.jpg
+image: >-
+  images/young-industrial-workers-looking-with-bugged-eyes-while-standing-against-yellow-blank-wall-handsome-professional-roofer-protective-mask-holding-electric-drill-having-kit-instruments.jpg
 image_alt: A group of people working in a cafe
 seo:
   title: Customer Loyalty Programs That Stick
