@@ -37,10 +37,10 @@ sections:
       - title: The Difference We Make
         image: images/sideways-man-working-roof-with-drill.jpg
         image_alt: App users welcoming a new member
-        content: >-
-          Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-          sapien interdum luctus. Cras rhoncus condimentum metus sit amet
-          auctor.
+        content: >
+          We take the time to pay attention to the details in all the roofing
+          services we provide. This includes fast repairs for storm damage
+          roofing needs as well as small and complete roof repair jobs
         actions:
           - label: Learn More
             url: /features
