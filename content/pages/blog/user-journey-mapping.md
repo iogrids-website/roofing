@@ -6,7 +6,7 @@ excerpt: >-
   aliquet rhoncus sed, hendrerit vel odio.
 author: content/data/authors/jane-doe.yaml
 date: '2019-03-27'
-thumb_image: images/10_thumb.jpg
+thumb_image: images/man-working-roof-front-view.jpg
 thumb_image_alt: Business people in a meeting
 image: images/man-sitting-roof.jpg
 image_alt: Business people in a meeting
