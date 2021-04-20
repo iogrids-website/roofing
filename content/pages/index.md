@@ -5,7 +5,7 @@ sections:
     type: section_hero
     image: images/19197738-removebg-preview.png
     image_alt: App preview
-    title: This Is A Big Hero Headline
+    title: Residential and Commercial Roofing
     content: >-
       Azimuth is the perfect theme for developers, designers and entrepreneurs
       who need a sleek, modern SaaS site.
