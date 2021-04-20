@@ -1,8 +1,6 @@
 ---
 title: The Importance of Proper Roofing
-subtitle: >-
-  Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa
-  massa primis.
+subtitle: Roofing Installation and Maintenance
 author: content/data/authors/john-doe.yaml
 excerpt: >-
   Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan
