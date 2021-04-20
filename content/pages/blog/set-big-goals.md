@@ -6,7 +6,7 @@ excerpt: >-
 author: content/data/authors/jane-doe.yaml
 date: '2019-03-10'
 thumb_image: images/man-sitting-roof.jpg
-image: images/12.jpg
+image: images/man-sitting-roof.jpg
 seo:
   title: Why You Should Set Big Goals
   description: A interesting tale about Big Goals
