@@ -1,5 +1,5 @@
 ---
-title: 5 Customer Service Skills that Every Employee Needs
+title: Roofing Boots - Safety At Work
 subtitle: 'Apparently, there are 5 Service Skills that Every Employee Needs'
 author: content/data/authors/john-doe.yaml
 excerpt: >-
