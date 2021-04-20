@@ -1,6 +1,5 @@
 ---
 title: Roofers - You Get What You Pay For When Hiring a Roofing Contractor
-subtitle: The roof on your home is the first line of defense.
 author: content/data/authors/jane-doe.yaml
 excerpt: >-
   A story about customer loyalty curabitur sed consectetur nisi. Integer sit
