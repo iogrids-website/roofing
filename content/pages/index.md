@@ -87,8 +87,10 @@ sections:
         avatar: images/review3.jpg
         avatar_alt: Jonquil Von Haggerston's photo
         content: >-
-          Integer consectetur purus neque, ac porttitor enim convallis vitae.
-          Interdum et malesuada fames ac ante ipsum primis in faucibus.
+          I contracted with Advantage to replace my old roof in preparation for
+          a solar installation..  Ron and the team were timely, professional,
+          thorough, and did exactly what they said they would do when they said
+          they would do it. 
   - section_id: call-to-action
     type: section_cta
     title: This Is Call To Action Block!
