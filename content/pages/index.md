@@ -23,10 +23,10 @@ sections:
       - title: The Best Feature of Our Services
         image: images/man-working-roof-front-view.jpg
         image_alt: App preview on a phone and tablet
-        content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
+        content: >
+          Our services include flat roof repair, leak repair, new roof
+          installation, residential roofing, commercial roofing, metal roofing
+          and much much more
         actions:
           - label: Learn More
             url: /features
