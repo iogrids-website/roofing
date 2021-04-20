@@ -28,7 +28,7 @@ sections:
           installation, residential roofing, commercial roofing, metal roofing
           and much much more
         actions:
-          - label: Learn More
+          - label: Know More
             url: /features
             style: secondary
             has_icon: true
