@@ -16,7 +16,7 @@ sections:
     background: white
     title: Features
     subtitle: >-
-      you get an entire team of residential and commercial exterior problem
+      We t an entire team of residential and commercial exterior problem
       solvers. Plus, you get a lifetime warranty, 24-hour turnaround on most
       jobs, and amazing customer service
     features:
