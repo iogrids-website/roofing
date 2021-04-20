@@ -33,6 +33,7 @@ seo:
       value: images/6.jpg
       relativeUrl: true
 layout: post
+title: Metal or Steel Roofing the Right Choice
 ---
 Why would anybody in their right mind spend double or even triple the cost of an asphalt roof on a metal roof? On the surface it seems like a waste of money and many asphalt roofing companies are very good at making the case for asphalt. In fact the only logical and valid reason for making the decision to buy an asphalt roof instead of a permanent one is money. If the money is not available and financing is not an option then the initially cheaper asphalt roof will have to suffice. While asphalt roofing is definitely less expensive in the long run it will cost many thousands of dollars more as roof replacements will be needed every 8 to 10 years.
 
