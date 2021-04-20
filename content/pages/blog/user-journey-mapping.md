@@ -38,13 +38,46 @@ seo:
       relativeUrl: true
 layout: post
 ---
+Everyone knows how important it is to have a good roof overhead. Your roof protects the rest of your home from damage, helps hold in heat or keep your home cool, adds value to your home and gives you and your family a healthier, happier place to live. Even if your roof isn't new, if you follow these simple maintenance tips now, you may be able to keep your roof in tip top condition much longer than even the average 15 years covered by most warranties.
 
-Curabitur sed consectetur nisi. Integer sit amet commodo massa. Cras posuere justo magna, id placerat ligula vulputate malesuada. Aenean a ipsum quis neque ornare placerat eu eu orci. Nullam feugiat sed ante in euismod. Pellentesque a nibh dolor. Donec ultrices lacus eget orci commodo ultricies. Morbi placerat purus non varius egestas. Ut tempus ligula quis lorem suscipit, sed vulputate dolor placerat. Aliquam ut massa placerat, vehicula erat non, mattis leo. Pellentesque egestas velit sit amet lectus lobortis, sit amet pharetra ipsum porta. Nullam massa nulla, tincidunt vel volutpat vel, commodo id leo. Curabitur id volutpat lacus, sed commodo velit. Quisque facilisis consectetur nisl vitae vulputate. Proin porttitor ipsum ut diam faucibus, scelerisque posuere ex euismod. Aenean posuere bibendum egestas.
+**Inspect Your Roof Twice A Year And After Every Heavy Storm**
 
-Praesent ut cursus enim, sit amet dictum turpis. Etiam justo orci, consectetur aliquet rhoncus sed, hendrerit vel odio. Etiam pharetra neque vel gravida tincidunt. Etiam consequat commodo elit id eleifend. Nullam eu justo eu odio pretium feugiat. Sed non neque dui. Fusce leo erat, imperdiet quis pulvinar vitae, consequat quis dolor. Curabitur eu quam et odio vehicula auctor convallis nec ipsum. Nam vitae dui sapien. Pellentesque vitae lorem id ipsum lacinia consectetur id a erat. Nulla semper ut erat vel vulputate. Nulla sagittis dui ut dapibus euismod. Phasellus et dui posuere, lobortis erat a, pretium nunc. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas molestie ut tellus in convallis. Cras luctus urna quis velit volutpat, semper venenatis mauris auctor.
+The first step in maintaining your roof in top condition is spending a little time inspecting your roof twice year, in the spring and fall, and after major storms. The bi-yearly inspections should be done both on the inside and outside of the roof. After storm inspections should be done on the outside of the roof, to ensure that there is no broken tiles, or gouges from flying debris. Inspections should be done with using binoculars or a ladder.
 
-Aenean dui sem, sollicitudin non venenatis eget, gravida rutrum risus. Proin massa leo, convallis id orci at, convallis dignissim mi. Integer et arcu arcu. Sed tristique diam id elit iaculis accumsan. Donec vehicula libero nunc, quis dictum orci pharetra nec. Proin blandit pellentesque sapien et sodales. Phasellus convallis sapien venenatis semper iaculis. Curabitur commodo iaculis mi, nec gravida nunc pellentesque ac. Nullam ac felis est. Donec gravida arcu ipsum, ut pulvinar est scelerisque id. Duis lobortis ante eu ante volutpat, quis pharetra sapien mattis. Sed ex enim, accumsan ut volutpat a, consectetur iaculis urna. Donec tempus enim sed porta euismod.
+**Trim Overhanging Tree Branches**
 
-Nam mauris leo, mattis in finibus sit amet, mattis vitae libero. In sed leo purus. Fusce ac suscipit nisl. Vestibulum tristique neque nec lacus finibus porta. In erat libero, pellentesque non sodales quis, mollis a elit. Vestibulum viverra dui ut ornare maximus. Aliquam at odio quis magna convallis euismod.
+During your roof inspections make note of any trees growing close to the house and roof. If there are branches hanging over the roof these should be trimmed back if healthy. Falling leaves or pine needles can end up in valleys of your roof where they can hold in moisture and rot the tiles making them weak and allowing rain water to soak through doing further damage to the structure of your roof. In addition, falling branches can gouge the roof and damage roofing tiles. By trimming those branches before they can do damage you are protecting your roof by using preventive measures.
 
-Integer nisi nisi, hendrerit a ultrices ut, facilisis at odio. Suspendisse aliquet sed magna in bibendum. Praesent sit amet tincidunt purus. Cras sollicitudin at ante semper feugiat. Sed sem sem, dignissim id aliquet ac, interdum fringilla ipsum. Proin laoreet metus leo, et tempor felis aliquam at. Cras eget urna vehicula, elementum tellus a, tempor odio. Morbi pretium augue erat, et suscipit metus varius non. Quisque vitae lectus id mi consequat laoreet. Nam non molestie elit. Proin iaculis vel ex non rhoncus. Donec metus velit, blandit quis arcu quis, venenatis sodales velit.
+**Clean All Debris From Your Roof**
+
+You also need to clean all the debris from your roof at least twice a year. Dirt, leaves, pine needles and other debris can overtime cause mold and mildew to grow on your roof and cause other damage as well. By keeping your roof free of debris you are removing the potential for damage to your roof and helping to not only to look better, but remain in the best condition possible.
+
+**Don't Allow Mold and Mildew to Grow**
+
+Black spots on your roof is a sign of mold and mildew. Overtime mold can work it's way into your roofing tile and cause damage to the underlying roof itself. If you have a new roof that is free from mold and mildew, placing zinc strips at the peak of your roof will result in zinc washing off the strips each time it rains and preventing mold and mildew from growing. If you have an older roof that has begun to mold, then clean the mold from the roof using a mold remover specially made for roofs and then attaching zinc strips.
+
+**Keep Those Gutters Clean and In Good Repair**
+
+Clogged gutters can cause thousands of dollars of damage to your roof as water can back up under many different types of roofing materials. By keeping your gutters free of debris and in good repair you ensure that they can perform the job they are meant to do, which is keep the rain water away from your roof and those roofing tiles.
+
+**Replace Damaged Shingles and Roofing Tiles**
+
+Many people make the mistake of thinking that one missing shingle, or damaged roofing tile really isn't going to hurt anything. This couldn't be more false. If you want to keep your roof in tip top shape then you need to replace those shingles and tiles that become damaged. Even a small corner torn off a tile can allow your roof to suffer a lot of damage. So keep extra shingles and tiles on hand and learn the correct way to repair them should the need arise.
+
+**Replace Roof Sealants as Needed**
+
+Check all the places where roof sealant is used and if the sealant is showing signs of wear and tear such as cracks or small missing pieces then you need to clear all the old sealant away and reapply fresh sealant.
+
+**Replace Cracked Mortar Around Chimneys**
+
+Make sure that you check your chimney for cracked or missing mortar and replace that mortar that is damaged. The mortar is what holds the chimney bricks in place and should a brick fall it can do great damage to your roof as well as result in your losing your heating an inopportune time.
+
+**Don't Forget Snow Removal**
+
+If you live in an area that gets heavy snowfall and you have good insulation then snow is bound to pile up on roof. Snow can be extremely heavy and cause damage to your roof from the excess weight. In addition, thawing and freezing of snow on the roof can cause ice to back up until roofing tiles, damaging the tiles and roof itself when the spring thaw arrives.
+
+**Have A Professional Inspection of Your Roof**
+
+While you can do most of your roof inspection and maintenance yourself you should have a professional inspection at least once a year or every other year if your roof is older than ten years old. Professionals can spot potential problems and fix them long before they will be noticeable to you. It costs less to have a professional inspect your roof and make repairs than it will to have to replace your roof sooner than necessary.
+
+By following these easy maintenance tips, you can keep your roof in tip top condition for years to come and just may find that your roof outlasts the warranty by two, three, or even 5 years.
