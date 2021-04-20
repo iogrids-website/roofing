@@ -20,7 +20,7 @@ sections:
       us, you get a lifetime warranty, 24-hour turnaround on most jobs with an
       amazing customer service
     features:
-      - title: The Best Feature of our Services
+      - title: The Best Feature of Our Services
         image: images/man-working-roof-front-view.jpg
         image_alt: App preview on a phone and tablet
         content: >-
