@@ -35,9 +35,21 @@ seo:
       relativeUrl: true
 layout: post
 ---
+Owners who view the roofing system as a one-time expense, and make specification decisions based solely on first costs, run the risk of incurring higher roof maintenance and repair expenditures. The bottom line: Selecting the wrong system is likely to cost a facility executive significantly more than if the right system had initially been selected.
 
-Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan sapien blandit ac amet faucibus aliquet placerat commodo. Interdum ante aliquet commodo accumsan vis phasellus adipiscing. Ornare a in lacinia. Vestibulum accumsan ac metus massa tempor. Accumsan in lacinia ornare massa amet. Ac interdum ac non praesent. Cubilia lacinia interdum massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet arcu accumsan lorem amet accumsan.
+High repair costs can be avoided by installing a high-performance roofing system and conducting routine preventive maintenance throughout the life of the roof. The first cost of a quality roofing system may be higher, but the lower life-cycle costs of the system will more than offset the initial investment.
 
-Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing placerat lorem turpis at. Aliquet lorem porttitor interdum. Amet lacus. Aliquam lobortis faucibus blandit ac phasellus. In amet magna non interdum volutpat porttitor metus a ante ac neque. Nisi turpis. Commodo col. Interdum adipiscing mollis ut aliquam id ante adipiscing commodo integer arcu amet Ac interdum ac non praesent. Cubilia lacinia interdum massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet arcu accumsan lorem amet accumsan commodo odio cubilia ac eu interdum placerat placerat arcu commodo lobortis adipiscing semper ornare pellentesque.
+The initial cost of a roofing system includes materials, labor, overhead, profit and indirect costs associated with the structure. The life-cycle analysis takes the first cost of the roof, then adds to it the future costs of operation and maintenance over the economic life of the roof.
 
-Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing placerat lorem turpis at. Aliquet lorem porttitor interdum. Amet lacus. Aliquam lobortis faucibus blandit ac phasellus. In amet magna non interdum volutpat porttitor metus a ante ac neque. Nisi turpis. Commodo col. Interdum adipiscing mollis ut aliquam id ante adipiscing commodo integer arcu amet blandit adipiscing arcu ante.
+The facility executive that fails to consider the value of a life-cycle costing approach to the purchase of a new roof does the facility and everyone involved with it a financial disservice. First-cost buyers may overlook such important future expense reduction opportunities as:
+
+• Energy cost savings in the heating and air conditioning of the building through the use of white, reflective membranes or coatings and extra insulation.
+• Extended roof service life for an optimally drained roof.
+• Enhanced roof fire retardence and wind uplift resistance, resulting in reduced insurance costs.
+• Extended roof service life resulting from the use of heavier structural framing materials, allowing a heavier roofing system.
+• Future savings when the roof is to be replaced by using reusable roof component accessories.
+• Reduced roofing surface repairs through installation of a heavier membrane of walkway pads for high-traffic roofs.
+• Prevention of roof surface degradation in those roof areas where harmful emissions may occur by installation of appropriate protective devices.
+
+The most cost-effective roof is one that will stand up to the elements and demands of time. Therefore, facility executives should be actively involved in the initial planning stages to determine the best roofing system based on the established criteria for the building.
+
