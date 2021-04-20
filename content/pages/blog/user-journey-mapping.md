@@ -1,8 +1,6 @@
 ---
 title: Roof Maintenance Tips
-subtitle: >-
-  Praesent ut cursus enim, sit amet dictum turpis. Etiam justo orci, consectetur
-  aliquet rhoncus sed, hendrerit vel odio.
+subtitle: Roof Maintenance Tips To Keep Your Roof In Tip Top Shape
 excerpt: >-
   Praesent ut cursus enim, sit amet dictum turpis. Etiam justo orci, consectetur
   aliquet rhoncus sed, hendrerit vel odio.
