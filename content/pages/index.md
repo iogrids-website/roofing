@@ -49,7 +49,7 @@ sections:
             icon: arrow-right
             icon_position: right
       - title: Our Commitment
-        image: images/feature3.png
+        image: images/fabulous-maple.jpg
         image_alt: App user profile preview
         content: >
           From shingle repair to gutter replacements, we can do it all. We will
