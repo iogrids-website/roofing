@@ -94,7 +94,7 @@ sections:
     title: For Your Roofing Needs!
     subtitle: Schedule your free consultation now
     actions:
-      - label: Get Started
+      - label: Contact Us
         url: /signup
         style: primary
   - section_id: recent-posts
