@@ -7,21 +7,23 @@ sections:
     image: images/feature1.png
     image_alt: App preview on a phone and tablet
     title: Our Services
-    content: >-
-      Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
-      cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
-      consectetur lobortis.
+    content: >
+      We are a full service contracting company specializing in all types of
+      commercial, industrial and institutional roofing.
 
 
-      * Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
-      * Ut eu nunc at diam fringilla fringilla eu ut massa.
-
-      * Phasellus ut enim non lorem venenatis rutrum.
+      We’re experienced in the design and application of roof systems for
+      situations with special problems and considerations. We bring quality
+      materials backed by integrity and quality service to every project.
 
 
-      Mollis eget congue quis, venenatis sit amet metus. Etiam sit amet tortor
-      sed justo tempor condimentum.
+      Our services include flat roof repair, leak repair, new roof installation,
+      residential roofing, commercial roofing, metal roofing and much much more.
+      From shingle repair to gutter replacements, we can do it all. We will make
+      every effort to arrive on time and treat your home as we would our own. We
+      take the time to pay attention to the details in all the roofing services
+      we provide. This includes fast repairs for storm damage roofing needs as
+      well as small and complete roof repair jobs,
     actions:
       - label: Free Trial
         url: /signup
