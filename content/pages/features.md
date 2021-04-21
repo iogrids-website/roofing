@@ -26,7 +26,7 @@ sections:
       we provide. This includes fast repairs for storm damage roofing needs as
       well as small and complete roof repair jobs,
     actions:
-      - label: Free Trial
+      - label: Contact Us
         url: /signup
         style: primary
   - section_id: call-to-action
