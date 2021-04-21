@@ -13,7 +13,7 @@ thumb_image_alt: Business people in a meeting
 image: images/man-sitting-roof.jpg
 image_alt: Business people in a meeting
 seo:
-  title: A Guide To User Journey Mapping
+  title: Roof Maintenance Tips
   description: >-
     Everyone knows how important it is to have a good roof overhead. Your roof
     protects the rest of your home from damage, helps hold in heat or keep your
