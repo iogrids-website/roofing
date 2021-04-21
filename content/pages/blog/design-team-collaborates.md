@@ -1,8 +1,9 @@
 ---
 title: Investing In A High-Quality Roofing System
 excerpt: >-
-  Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan
-  sapien blandit ac amet faucibus aliquet placerat commodo.
+  Owners who view the roofing system as a one-time expense, and make
+  specification decisions based solely on first costs, run the risk of incurring
+  higher roof maintenance and repair expenditures.
 author: content/data/authors/jane-doe.yaml
 date: '2019-03-24'
 thumb_image: images/happy-young-asian-woman-sitting-floor-with-roof-gesture-white-wall.jpg
