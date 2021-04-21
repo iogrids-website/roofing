@@ -19,7 +19,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: 5 Customer Service Skills that Every Employee Needs
+      value: Roofing Boots
       keyName: property
     - name: 'og:description'
       value: 'Apparently, there are 5 Service Skills that Every Employee Needs'
