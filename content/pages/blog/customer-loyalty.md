@@ -2,8 +2,8 @@
 title: Roofers - You Get What You Pay For When Hiring a Roofing Contractor
 author: content/data/authors/jane-doe.yaml
 excerpt: >-
-  A story about customer loyalty curabitur sed consectetur nisi. Integer sit
-  amet commodo massa.
+  The roof on your home or business is the first line of defense when it comes
+  to protecting your real estate property investment! 
 date: '2021-01-03'
 thumb_image: >-
   images/young-industrial-workers-looking-with-bugged-eyes-while-standing-against-yellow-blank-wall-handsome-professional-roofer-protective-mask-holding-electric-drill-having-kit-instruments-min.jpg
