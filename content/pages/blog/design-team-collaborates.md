@@ -10,7 +10,10 @@ thumb_image: images/happy-young-asian-woman-sitting-floor-with-roof-gesture-whit
 image: images/happy-young-asian-woman-sitting-floor-with-roof-gesture-white-wall.jpg
 seo:
   title: Investing In A High-Quality Roofing System
-  description: Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan.
+  description: >-
+    Owners who view the roofing system as a one-time expense, and make
+    specification decisions based solely on first costs, run the risk of
+    incurring higher roof maintenance and repair expenditures.
   extra:
     - name: 'og:type'
       value: article
