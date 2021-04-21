@@ -14,8 +14,8 @@ image_alt: A group of people working in a cafe
 seo:
   title: Roofers - You Get What You Pay For When Hiring a Roofing Contractor
   description: >-
-    A story about customer loyalty curabitur sed consectetur nisi. Integer sit
-    amet commodo massa.
+    The roof on your home or business is the first line of defense when it comes
+    to protecting your real estate property investment! 
   extra:
     - name: 'og:type'
       value: article
