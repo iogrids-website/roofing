@@ -8,7 +8,9 @@ thumb_image: images/vertical-low-angle-closeup-shot-black-roof-building.jpg
 image: images/blue-onion.jpg
 seo:
   title: Metal Roofing
-  description: Quisque ultrices metus sed libero ultricies condimentum.
+  description: >-
+    You remember the day when one of your friends mentioned something about the
+    benefits of a new metal roof and how great it was. 
   extra:
     - name: 'og:type'
       value: article
