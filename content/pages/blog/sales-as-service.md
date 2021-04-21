@@ -9,7 +9,7 @@ date: '2018-01-15'
 thumb_image: images/vertical-low-angle-closeup-shot-black-roof-building.jpg
 image: images/vertical-low-angle-closeup-shot-black-roof-building.jpg
 seo:
-  title: Sales as a Service
+  title: Metal Roofing
   description: A interesting tale about Sales
   extra:
     - name: 'og:type'
