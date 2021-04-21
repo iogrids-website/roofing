@@ -23,7 +23,11 @@ seo:
       value: Roof Maintenance Tips
       keyName: property
     - name: 'og:description'
-      value: A tale about Journey Mapping
+      value: >-
+        Everyone knows how important it is to have a good roof overhead. Your
+        roof protects the rest of your home from damage, helps hold in heat or
+        keep your home cool, adds value to your home and gives you and your
+        family a healthier, happier place to live.
       keyName: property
     - name: 'og:image'
       value: images/10.jpg
