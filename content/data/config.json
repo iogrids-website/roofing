@@ -19,19 +19,20 @@
                 "style": "link"
             },
             {
-                "label": "Pricing",
+                "label": "Faq",
                 "url": "/pricing",
                 "style": "link"
             },
             {
-                "label": "Style Guide",
-                "url": "/style-guide",
-                "style": "link"
-            },
-            {
-                "label": "Sign Up",
-                "url": "/signup",
-                "style": "primary"
+                "label": "Contact",
+                "url": "#",
+                "style": "link",
+                "has_icon": false,
+                "icon": "arrow-left",
+                "icon_position": "left",
+                "new_window": false,
+                "no_follow": false,
+                "type": "action"
             }
         ]
     },
