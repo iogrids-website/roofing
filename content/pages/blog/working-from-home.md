@@ -20,7 +20,9 @@ seo:
       value: Understanding Your Roof Replacement Estimate
       keyName: property
     - name: 'og:description'
-      value: A tale about advantages and disadvantages of working from home
+      value: >-
+        You've decided you need a new roof. Several contractors have given you
+        estimates. How do you know which is right for you?
       keyName: property
     - name: 'og:image'
       value: images/9.jpg
