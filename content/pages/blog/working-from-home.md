@@ -35,7 +35,9 @@ seo:
     - name: 'twitter:title'
       value: Understanding Your Roof Replacement Estimate
     - name: 'twitter:description'
-      value: A tale about advantages and disadvantages of working from home
+      value: >-
+        You've decided you need a new roof. Several contractors have given you
+        estimates. How do you know which is right for you?
     - name: 'twitter:image'
       value: images/9.jpg
       relativeUrl: true
