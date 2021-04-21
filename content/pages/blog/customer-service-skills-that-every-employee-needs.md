@@ -10,7 +10,7 @@ date: '2018-01-11'
 thumb_image: images/man-sitting-roof (1).jpg
 image: images/man-sitting-roof (1).jpg
 seo:
-  title: 5 Customer Service Skills that Every Employee Needs
+  title: Roofing Boots
   description: 'Apparently, there are 5 Service Skills that Every Employee Needs'
   extra:
     - name: 'og:type'
