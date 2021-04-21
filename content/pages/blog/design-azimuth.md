@@ -19,7 +19,9 @@ seo:
       value: Behind the Scenes - The Design of Azimuth
       keyName: property
     - name: 'og:description'
-      value: Quisque ultrices metus sed libero ultricies condimentum.
+      value: >-
+        You remember the day when one of your friends mentioned something about
+        the benefits of a new metal roof and how great it was. 
       keyName: property
     - name: 'og:image'
       value: images/6.jpg
