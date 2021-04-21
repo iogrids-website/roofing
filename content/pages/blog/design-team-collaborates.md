@@ -9,7 +9,7 @@ date: '2019-03-24'
 thumb_image: images/happy-young-asian-woman-sitting-floor-with-roof-gesture-white-wall.jpg
 image: images/happy-young-asian-woman-sitting-floor-with-roof-gesture-white-wall.jpg
 seo:
-  title: How Our Design Team Collaborates
+  title: Investing In A High-Quality Roofing System
   description: Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan.
   extra:
     - name: 'og:type'
