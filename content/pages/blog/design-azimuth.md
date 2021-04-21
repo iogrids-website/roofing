@@ -16,7 +16,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: Behind the Scenes - The Design of Azimuth
+      value: Metal Roofing
       keyName: property
     - name: 'og:description'
       value: >-
