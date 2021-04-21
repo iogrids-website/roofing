@@ -1,8 +1,8 @@
 ---
 title: Understanding Your Roof Replacement Estimate
 excerpt: >-
-  Work at home parent is an entrepreneur who works from home and integrates
-  parenting into his or her business activities.
+  You've decided you need a new roof. Several contractors have given you
+  estimates. How do you know which is right for you?
 author: content/data/authors/jane-doe.yaml
 date: '2020-04-22'
 thumb_image: images/long-shot-man-working-roof.jpg
