@@ -2,8 +2,10 @@
 title: Roof Maintenance Tips
 subtitle: Roof Maintenance Tips To Keep Your Roof In Tip Top Shape
 excerpt: >-
-  Praesent ut cursus enim, sit amet dictum turpis. Etiam justo orci, consectetur
-  aliquet rhoncus sed, hendrerit vel odio.
+  Everyone knows how important it is to have a good roof overhead. Your roof
+  protects the rest of your home from damage, helps hold in heat or keep your
+  home cool, adds value to your home and gives you and your family a healthier,
+  happier place to live. 
 author: content/data/authors/jane-doe.yaml
 date: '2019-03-27'
 thumb_image: images/man-working-roof-front-view.jpg
