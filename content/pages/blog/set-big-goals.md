@@ -8,8 +8,11 @@ date: '2019-03-10'
 thumb_image: images/man-sitting-roof.jpg
 image: images/man-sitting-roof.jpg
 seo:
-  title: Why You Should Set Big Goals
-  description: A interesting tale about Big Goals
+  title: Roofing - Under the Shingles
+  description: >-
+    Imagine, you're standing on the sidewalk, looking at an average house. You
+    see the siding, the windows, the front door, and way up above, you see the
+    roof
   extra:
     - name: 'og:type'
       value: article
@@ -18,7 +21,10 @@ seo:
       value: Roofing - Under the Shingles
       keyName: property
     - name: 'og:description'
-      value: A interesting tale about Big Goals
+      value: >-
+        Imagine, you're standing on the sidewalk, looking at an average house.
+        You see the siding, the windows, the front door, and way up above, you
+        see the roof
       keyName: property
     - name: 'og:image'
       value: images/12.jpg
@@ -27,9 +33,13 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Why You Should Set Big Goals
+      value: Roofing - Under the Shingles
     - name: 'twitter:description'
-      value: A interesting tale about Big Goals
+      value: >+
+        Imagine, you're standing on the sidewalk, looking at an average house.
+        You see the siding, the windows, the front door, and way up above, you
+        see the roof
+
     - name: 'twitter:image'
       value: images/12.jpg
       relativeUrl: true
