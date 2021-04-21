@@ -10,7 +10,7 @@ thumb_image_alt: People in a conference room
 image: images/long-shot-man-working-roof.jpg
 image_alt: People in a conference room
 seo:
-  title: The Advantages and Disadvantages of Working from Home
+  title: Understanding Your Roof Replacement Estimate
   description: >-
     You've decided you need a new roof. Several contractors have given you
     estimates. How do you know which is right for you?
