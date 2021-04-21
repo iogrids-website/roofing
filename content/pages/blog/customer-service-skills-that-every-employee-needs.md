@@ -3,8 +3,9 @@ title: Roofing Boots
 subtitle: Safety At Work
 author: content/data/authors/john-doe.yaml
 excerpt: >-
-  Sed nec metus dignissim quam finibus aliquet. Cras luctus, nibh id consequat
-  interdum, massa massa tempor ante.
+  Today's roofs are made of many different kinds of constructional and
+  industrial materials. Concrete and asphalt can make for a particularly strong
+  roof, while metal can be a cheaper material that can be difficult to walk on.
 date: '2018-01-11'
 thumb_image: images/man-sitting-roof (1).jpg
 image: images/man-sitting-roof (1).jpg
