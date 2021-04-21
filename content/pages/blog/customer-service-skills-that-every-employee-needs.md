@@ -22,7 +22,9 @@ seo:
       value: Roofing Boots
       keyName: property
     - name: 'og:description'
-      value: 'Apparently, there are 5 Service Skills that Every Employee Needs'
+      value: >-
+        Today's roofs are made of many different kinds of constructional and
+        industrial materials.
       keyName: property
     - name: 'og:image'
       value: images/5.jpg
