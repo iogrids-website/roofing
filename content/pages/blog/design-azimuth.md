@@ -7,7 +7,7 @@ date: '2018-01-09'
 thumb_image: images/vertical-low-angle-closeup-shot-black-roof-building.jpg
 image: images/blue-onion.jpg
 seo:
-  title: Behind the Scenes - The Design of Azimuth
+  title: Metal Roofing
   description: Quisque ultrices metus sed libero ultricies condimentum.
   extra:
     - name: 'og:type'
