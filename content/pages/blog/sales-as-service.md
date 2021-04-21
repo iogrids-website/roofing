@@ -3,7 +3,7 @@ title: Metal Roofing
 subtitle: Finding a Metal Roofing Contractor
 excerpt: >-
   You remember the day when one of your friends mentioned something about the
-  benefits of a new metal roof and how great it was. 
+  benefits of a new metal roof and how great it was.
 author: content/data/authors/jane-doe.yaml
 date: '2018-01-15'
 thumb_image: images/vertical-low-angle-closeup-shot-black-roof-building.jpg
