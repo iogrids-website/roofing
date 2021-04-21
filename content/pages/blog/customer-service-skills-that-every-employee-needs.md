@@ -11,7 +11,9 @@ thumb_image: images/man-sitting-roof (1).jpg
 image: images/man-sitting-roof (1).jpg
 seo:
   title: Roofing Boots
-  description: 'Apparently, there are 5 Service Skills that Every Employee Needs'
+  description: >-
+    Today's roofs are made of many different kinds of constructional and
+    industrial materials.
   extra:
     - name: 'og:type'
       value: article
