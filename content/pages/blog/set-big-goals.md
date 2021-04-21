@@ -1,8 +1,8 @@
 ---
 title: Roofing - Under the Shingles
 excerpt: >-
-  Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac
-  turpis egestas.
+  Imagine, you're standing on the sidewalk, looking at an average house. You see
+  the siding, the windows, the front door, and way up above, you see the roof
 author: content/data/authors/jane-doe.yaml
 date: '2019-03-10'
 thumb_image: images/man-sitting-roof.jpg
