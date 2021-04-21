@@ -10,7 +10,9 @@ thumb_image: images/vertical-low-angle-closeup-shot-black-roof-building.jpg
 image: images/vertical-low-angle-closeup-shot-black-roof-building.jpg
 seo:
   title: Metal Roofing
-  description: A interesting tale about Sales
+  description: >-
+    You remember the day when one of your friends mentioned something about the
+    benefits of a new metal roof and how great it was.
   extra:
     - name: 'og:type'
       value: article
