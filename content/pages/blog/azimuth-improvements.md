@@ -3,8 +3,9 @@ title: The Importance of Proper Roofing
 subtitle: Roofing Installation and Maintenance
 author: content/data/authors/john-doe.yaml
 excerpt: >-
-  Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan
-  sapien blandit ac amet faucibus aliquet placerat commodo.
+  A roof has two functions: Insulation and drainage. The insulation protects the
+  house or any establishments not only from the weather, but also from the noise
+  and birds.
 date: '2017-03-26'
 thumb_image: images/red_wooden_roof_tiles_seamless_texture.jpg
 seo:
