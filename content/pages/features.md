@@ -4,7 +4,8 @@ sections:
   - section_id: features
     type: section_content
     background: gray
-    image: images/feature1.png
+    image: >-
+      images/young-industrial-workers-looking-with-bugged-eyes-while-standing-against-yellow-blank-wall-handsome-professional-roofer-protective-mask-holding-electric-drill-having-kit-instruments.jpg
     image_alt: App preview on a phone and tablet
     title: Our Services
     content: >
