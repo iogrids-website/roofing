@@ -18,10 +18,12 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: Sales as a Service
+      value: Metal Roofing
       keyName: property
     - name: 'og:description'
-      value: A interesting tale about Sales
+      value: >-
+        You remember the day when one of your friends mentioned something about
+        the benefits of a new metal roof and how great it was.
       keyName: property
     - name: 'og:image'
       value: images/4.jpg
