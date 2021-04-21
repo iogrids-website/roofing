@@ -1,7 +1,7 @@
 ---
 excerpt: >-
-  Quisque ultrices metus sed libero ultricies condimentum. Suspendisse ut
-  faucibus purus. Mauris at pharetra risus.
+  Why would anybody in their right mind spend double or even triple the cost of
+  an asphalt roof on a metal roof? 
 author: content/data/authors/jane-doe.yaml
 date: '2018-01-09'
 thumb_image: images/vertical-low-angle-closeup-shot-black-roof-building.jpg
