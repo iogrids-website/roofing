@@ -10,9 +10,7 @@ date: '2017-03-26'
 thumb_image: images/red_wooden_roof_tiles_seamless_texture.jpg
 seo:
   title: The Importance of Proper Roofing
-  description: >-
-    Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa
-    massa primis.
+  description: 'A roof has two functions: Insulation and drainage. '
   extra:
     - name: 'og:type'
       value: article
