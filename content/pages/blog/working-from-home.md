@@ -17,7 +17,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: The Advantages and Disadvantages of Working from Home
+      value: Understanding Your Roof Replacement Estimate
       keyName: property
     - name: 'og:description'
       value: A tale about advantages and disadvantages of working from home
