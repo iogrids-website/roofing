@@ -40,7 +40,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: A Guide To User Journey Mapping
+      value: Roof Maintenance Tips
     - name: 'twitter:description'
       value: A tale about Journey Mapping
     - name: 'twitter:image'
