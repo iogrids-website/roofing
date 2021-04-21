@@ -20,7 +20,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: A Guide To User Journey Mapping
+      value: Roof Maintenance Tips
       keyName: property
     - name: 'og:description'
       value: A tale about Journey Mapping
