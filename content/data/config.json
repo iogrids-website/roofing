@@ -19,11 +19,6 @@
                 "style": "link"
             },
             {
-                "label": "Faq",
-                "url": "/pricing",
-                "style": "link"
-            },
-            {
                 "label": "Contact",
                 "style": "link",
                 "has_icon": false,
