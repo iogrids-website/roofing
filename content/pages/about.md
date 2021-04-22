@@ -3,7 +3,7 @@ title: About Us
 subtitle: >-
   We provide our clients with a FREE, 100%, Non-prorated Materials and
   Workmanship Warranty for Life!
-image: images/about.jpg
+image: images/fabulous-maple.jpg
 image_alt: Team members in a conference room
 seo:
   title: About Us
