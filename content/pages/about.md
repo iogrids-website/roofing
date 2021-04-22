@@ -1,7 +1,7 @@
 ---
 title: About Us
 subtitle: >-
-  we provide our clients with a FREE, 100%, Non-prorated Materials and
+  We provide our clients with a FREE, 100%, Non-prorated Materials and
   Workmanship Warranty for Life!
 image: images/about.jpg
 image_alt: Team members in a conference room
