@@ -66,7 +66,7 @@
                     },
                     {
                         "label": "Contact",
-                        "url": "/contact",
+                        "url": "/static/contact",
                         "style": "link"
                     }
                 ]
