@@ -95,7 +95,7 @@ sections:
     subtitle: Schedule your free consultation now
     actions:
       - label: Contact Us
-        url: /signup
+        url: /static/contact
         style: primary
   - section_id: recent-posts
     type: section_posts
