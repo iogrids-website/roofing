@@ -1,8 +1,8 @@
 ---
 title: About Us
 subtitle: >-
-  This is an optional subtitle. It can be used to describe what this page is
-  about.
+  we provide our clients with a FREE, 100%, Non-prorated Materials and
+  Workmanship Warranty for Life!
 image: images/about.jpg
 image_alt: Team members in a conference room
 seo:
