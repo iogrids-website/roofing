@@ -102,14 +102,14 @@ sections:
     background: gray
     title: Latest Posts
 seo:
-  title: Stackbit Azimuth Theme
-  description: The preview of the Azimuth theme
+  title: Marcos Roofing
+  description: Roofers for You
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit Azimuth Theme
+      value: Marcos Roofing
       keyName: property
     - name: 'og:description'
       value: The preview of the Azimuth theme
